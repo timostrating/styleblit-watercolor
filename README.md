@@ -1,11 +1,4 @@
-# TinyPokemonWorld
-
-WARNING: This is a work in progress Portfolio item.
-
-<p align="center">
-  <img src="https://i.imgur.com/GvXiFLX.png" alt="image" width=>
-</p>
-
+# Styleblit watercolor
 
 [Emscpriten](https://emscripten.org/) + [GLFW3](https://www.glfw.org/) + [GLAD](https://www.glfw.org/) + [GLM](https://github.com/g-truc/glm/releases) + [ImGui](https://github.com/ocornut/imgui) + [stb](https://github.com/nothings/stb) + [personal unit test code](https://github.com/timostrating/unity_test)
 
@@ -21,7 +14,7 @@ Build the (optional) Emscpriten version
 `$ cd build/emscripten` <br/>
 `$ emconfigure cmake ./` <br/>
 `$ make` <br/>
-`$ emrun out/TinyPokemonWorld.html` <br/>
+`$ emrun out/styleblit_watercolor.html` <br/>
 
 
 Or build the normal desktop version
