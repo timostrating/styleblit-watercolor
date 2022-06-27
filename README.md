@@ -2,6 +2,10 @@
 
 [Emscpriten](https://emscripten.org/) + [GLFW3](https://www.glfw.org/) + [GLAD](https://www.glfw.org/) + [GLM](https://github.com/g-truc/glm/releases) + [ImGui](https://github.com/ocornut/imgui) + [stb](https://github.com/nothings/stb) + [personal unit test code](https://github.com/timostrating/unity_test)
 
+<p align="center">
+  <img src="https://imgur.com/xSN7Wvy.png" alt="image" width=>
+</p>
+
 ## Setup
 OPTIONAL: Setup [Emscpriten](https://emscripten.org/)
 1. To manage the dependencies I use submodules. So get them by recursively cloning this repo or run  `$ git submodule update --init --recursive` after you cloned it
