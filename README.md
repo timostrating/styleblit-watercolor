@@ -2,12 +2,14 @@
 
 [Demo](https://timostrating.github.io/styleblit-watercolor/) and [thesis](https://www.researchgate.net/publication/362805950_Real-time_example-based_style_transfer_of_watercolor_for_3D_games)
 
+### thesis abstract
+The digital revolution has made it possible that many traditional art forms, such as watercolor can now be expressed digitally. Despite the many available techniques to synthesis watercolor, this style sees only limited use in real-time 3D applications, such as video games. The aim of this study was to find ways to improve this. Where previous work has focused on artistic control over watercolor and taking whole 3D objects as input, we set out to explore how style transfer relates to previous watercolor research and how fast style transfer can be improved to work well for watercolor art in the setting of video games. StyleBlit is currently considered the state of the art in fast style transfer and results in the best visual results when it is presented with example images with high frequency details with no big repeating patterns. This description does not match with watercolor art and can also change its visual appearance based on how it is used in a real-world painting. We show that by extending StyleBlit with the idea of blending different example images, a more coherent visual result is shown that can mix colors, using a GPU implementation of Mixbox, in the same way real paint would be used. This makes more styles, such as watercolor, that lay outside the suggested example images with high frequency details, better suitable for the fast patch basted style transfer algorithm StyleBlit. While this type of blending is not as fast as HSV or Linear blending, we show that it would be fast enough to be implemented in the setting of a video game and improve the temporally coherency of the visual result.
 
-# Unity version
+## Unity version
 
 https://github.com/timostrating/styleblit-watercolor/releases
 
-# OpenGL version
+## OpenGL version
 
 [Emscpriten](https://emscripten.org/) + [GLFW3](https://www.glfw.org/) + [GLAD](https://www.glfw.org/) + [GLM](https://github.com/g-truc/glm/releases) + [ImGui](https://github.com/ocornut/imgui) + [stb](https://github.com/nothings/stb) + [personal unit test code](https://github.com/timostrating/unity_test)
 
