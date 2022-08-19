@@ -1,5 +1,14 @@
 # Styleblit watercolor
 
+[Demo](https://timostrating.github.io/styleblit-watercolor/) and [thesis](https://www.researchgate.net/publication/362805950_Real-time_example-based_style_transfer_of_watercolor_for_3D_games)
+
+
+# Unity version
+
+https://github.com/timostrating/styleblit-watercolor/releases
+
+# OpenGL version
+
 [Emscpriten](https://emscripten.org/) + [GLFW3](https://www.glfw.org/) + [GLAD](https://www.glfw.org/) + [GLM](https://github.com/g-truc/glm/releases) + [ImGui](https://github.com/ocornut/imgui) + [stb](https://github.com/nothings/stb) + [personal unit test code](https://github.com/timostrating/unity_test)
 
 <p align="center">
